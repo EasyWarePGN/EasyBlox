@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EasyWarePGN/EasyBlox/main/NewMainScript.lua", true))()
